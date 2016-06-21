@@ -5,4 +5,4 @@ It is my recommendation that if you are inexperienced in these sorts of challeng
 
 Drop me an e-mail if you manage to solve any of them I would really like to hear from you and how far you got on solving them.
 
-# /k\ /e\ /i\ /t\ /h\ /.\ /s\ /m\ /i\ /t\ /h\ /@\ /u\ /n\ /s\ /e\ /e\ /n\ /.\ /i\ /s\
+/k\ /e\ /i\ /t\ /h\ /.\ /s\ /m\ /i\ /t\ /h\ /@\ /u\ /n\ /s\ /e\ /e\ /n\ /.\ /i\ /s\
