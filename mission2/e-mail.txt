@@ -1,0 +1,13 @@
+Good Day
+
+Just a quick question for you. Before Daniel left the office for holiday. He sent me the binary for the Non Nuclear Electro Magnetic
+weapons Guidance System he is developing for our client. As you may well already know it is our company policy that we always verify the 
+hashes 
+to insure they have not been tampered with in transit for things with this type of security clearance. However we have a problem. We can not 
+match the hash with the one retrieved on the server and I have tried everything I know to verify the binary. Perhaps I am not using the right 
+hash verification method??? Could you let me know what hash function I must use to verify things coming from the Weapons Systems R&D 
+Department?
+
+Regards
+Marillyn
+
